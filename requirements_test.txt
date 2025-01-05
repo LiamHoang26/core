@@ -5,6 +5,8 @@
 # types-* that have versions roughly corresponding to the packages they
 # contain hints for available should be kept in sync with them
 
+# Test commit
+
 -c homeassistant/package_constraints.txt
 -r requirements_test_pre_commit.txt
 astroid==3.2.2
